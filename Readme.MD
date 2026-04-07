@@ -187,6 +187,15 @@ Evaluation metric: Root Mean Square Error (RMSE) on 5 million user-movie predict
 
 ## Dataset
 
+## Data
+
+Data is not included in this repo due to file size limits.
+
+Download it directly from Kaggle:
+
+kaggle competitions download -c movie-recommendation-hackathon-2026
+
+
 MovieLens dataset maintained by the GroupLens research group, University of Minnesota.
 Additional movie metadata scraped from IMDB.
 License: Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
